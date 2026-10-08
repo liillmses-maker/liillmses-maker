@@ -3,15 +3,15 @@
 <img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
 <img src="./about-blue.svg" alt="About Me" width="76%">
 
-Меня зовут sworexo. Я занимаюсь своими проектами, пишу код и пробую разные идеи. Мне нравится разбираться в том, как всё работает, и делать вещи, которыми удобно пользоваться самому.
+I'm sworexo. I work on my own projects, write code, and try out new ideas. I enjoy figuring out how things work and building things I'd want to use myself.
 
-Работаю с Lua и C++. Интересуюсь интерфейсами и автоматизацией. Обычно начинаю с небольшой идеи, а потом постепенно довожу её до рабочего состояния.
+I work with Lua and C++. I'm interested in interfaces and automation. I usually start with a small idea and gradually turn it into something that works.
 
-Кроме кода мне интересно оформление. Люблю, когда у проекта есть свой характер и всё выглядит аккуратно. Иногда могу долго возиться с деталями, потому что для меня они тоже имеют значение.
+Besides coding, I enjoy design. I like projects that have their own personality and look clean. Sometimes I spend a lot of time on small details because they matter to me too.
 
-Стараюсь писать понятный код и оставлять после себя порядок. Не всё получается сразу, но с каждым проектом хочется делать лучше.
+I try to keep my code readable and organized. Things don't always work on the first try, but I want to improve with every project.
 
-Всегда открыт к общению, обмену идеями и совместной работе. Если хочешь что-нибудь обсудить, можешь сразу рассказать, что у тебя на уме.
+I'm always open to conversations, sharing ideas, and working together. If you want to talk, feel free to get straight to what's on your mind.
 
 <br clear="all">
 
@@ -20,13 +20,13 @@
 <img align="left" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
 <img src="./projects-blue.svg" alt="Skills and Projects" width="76%">
 
-**Lua** использую для скриптов и собственных экспериментов. Мне нравится быстро проверять идеи и смотреть, что из них получится.
+**Lua** is what I use for scripts and personal experiments. I like being able to test ideas quickly and see where they lead.
 
-**C++** интересен мне возможностью лучше понимать устройство программ и работать ближе к системе.
+**C++** interests me because it helps me understand how programs work and get closer to the system.
 
-**Python** тоже есть среди моих проектов. Код можно посмотреть в репозитории [Zcchja](https://github.com/liillmses-maker/Zcchja).
+**Python** is also part of my projects. You can find some of my code in [Zcchja](https://github.com/liillmses-maker/Zcchja).
 
-**HTML и CSS** использованы в моём [личном сайте](https://liillmses-maker.github.io/gul-zxc/). Его [исходники](https://github.com/liillmses-maker/gul-zxc) доступны здесь же на GitHub.
+**HTML and CSS** power my [personal website](https://liillmses-maker.github.io/gul-zxc/). Its [source code](https://github.com/liillmses-maker/gul-zxc) is available here on GitHub.
 
 <br clear="all">
 
@@ -35,9 +35,9 @@
 <img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
 <img src="./social-blue.svg" alt="Social" width="76%">
 
-На [моём сайте](https://liillmses-maker.github.io/gul-zxc/) можно немного познакомиться со мной. Остальные проекты и эксперименты собраны в [репозиториях](https://github.com/liillmses-maker?tab=repositories).
+You can get to know me a little on [my website](https://liillmses-maker.github.io/gul-zxc/). My other projects and experiments are collected in my [repositories](https://github.com/liillmses-maker?tab=repositories).
 
-В интернете я sworexo, а здесь [liillmses-maker](https://github.com/liillmses-maker). Буду рад новым знакомствам и интересным идеям.
+Online I go by sworexo, and here I'm [liillmses-maker](https://github.com/liillmses-maker). I'm always happy to meet new people and hear interesting ideas.
 
 <br clear="all">
 
