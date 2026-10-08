@@ -1,5 +1,6 @@
 <img src="./welcome-blue.svg" alt="Welcome to my profile — sworexo" width="100%">
-<img src="./about-blue.svg" alt="About Me" width="76%">
+<img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
+ <img src="./about-blue.svg" alt="About Me" width="76%">
 I'm sworexo. I work on my own projects, write code, and try out new ideas. I enjoy figuring out how things work and building things I'd want to use myself.
 
 I work with Lua and C++. I'm interested in interfaces and automation. I usually start with a small idea and gradually turn it into something that works.
@@ -8,7 +9,7 @@ Besides coding, I enjoy design. I like projects that have their own personality 
 
 I try to keep my code readable and organized. Things don't always work on the first try, but I want to improve with every project.
 
-I'm always open to conversations, sharing ideas, and working together. If you want to talk, feel free to get straight to what's on your mind. <img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
+I'm always open to conversations, sharing ideas, and working together. If you want to talk, feel free to get straight to what's on your mind.
 <br clear="all">
 
 ---
