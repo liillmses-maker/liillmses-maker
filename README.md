@@ -1,38 +1,46 @@
-<p align="center">
-  <img src="./welcome.svg" alt="Welcome to my profile — sworexo" width="100%">
-</p>
+<img src="./welcome.svg" alt="Welcome to my profile — sworexo" width="100%">
 
-<p align="center">
-  <a href="https://liillmses-maker.github.io/gul-zxc/">Мой сайт</a> ·
-  <a href="https://github.com/liillmses-maker?tab=repositories">Мои проекты</a>
-</p>
+<img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
+<img src="./about.svg" alt="About Me" width="76%">
 
-<img src="./about.svg" alt="01 — About me" width="100%">
+- В интернете я — **sworexo**, на GitHub — **liillmses-maker**. Здесь собираю свои проекты, эксперименты и идеи.
 
-- В интернете я — **sworexo**, на GitHub — **liillmses-maker**.
-- Здесь собираю свои проекты, эксперименты и идеи.
-- Мой вайб: **гуль zxc настроящий кайф**.
+- Мой вайб — **гуль zxc настроящий кайф**. Свой стиль, свой ритм и своя игра.
+
+- Эта страница — место для моего кода и всего, что появится дальше. Репозитории можно посмотреть ниже.
+
 - *never gonna give u up never gonna let u down.*
 
-<br>
+<br clear="all">
 
-<img src="./projects.svg" alt="02 — Projects and stack" width="100%">
+---
 
-| Проект | Что внутри |
-| :--- | :--- |
-| [gul-zxc](https://github.com/liillmses-maker/gul-zxc) | Личная страница на HTML и CSS, опубликованная на GitHub Pages. |
-| [Zcchja](https://github.com/liillmses-maker/Zcchja) | Мой репозиторий с кодом на Python. |
-| [zxc](https://github.com/liillmses-maker/zxc) | Ещё один проект из моей коллекции. |
+<img align="left" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
+<img src="./projects.svg" alt="Skills and Projects" width="76%">
 
-**В репозиториях:** Python · HTML · CSS
+- **Python** — код в моём репозитории [Zcchja](https://github.com/liillmses-maker/Zcchja).
 
-<br>
+- **HTML & CSS** — моя [страница-визитка](https://liillmses-maker.github.io/gul-zxc/) и её [исходный код](https://github.com/liillmses-maker/gul-zxc).
 
-<img src="./social.svg" alt="03 — Find me" width="100%">
+- **GitHub Pages** — публикация личного сайта.
 
-- **Сайт:** [гуль zxc настроящий кайф](https://liillmses-maker.github.io/gul-zxc/)
-- **GitHub:** [@liillmses-maker](https://github.com/liillmses-maker)
+- **[zxc](https://github.com/liillmses-maker/zxc)** — ещё один проект в моей коллекции.
 
-<br>
+<br clear="all">
 
-<p align="center"><sub>1000 − 7 · свой стиль / свой ритм / своя игра</sub></p>
+---
+
+<img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
+<img src="./social.svg" alt="Social" width="76%">
+
+- **[Мой сайт](https://liillmses-maker.github.io/gul-zxc/)** — гуль zxc настроящий кайф.
+
+- **[GitHub](https://github.com/liillmses-maker)** — @liillmses-maker.
+
+- **[Репозитории](https://github.com/liillmses-maker?tab=repositories)** — мои проекты и эксперименты.
+
+<br clear="all">
+
+<p align="center"><sub>1000 − 7 · sworexo</sub></p>
+
+<p align="center"><sub>Layout inspiration & city banner: <a href="https://github.com/5dwn">5dwn</a></sub></p>
