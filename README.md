@@ -43,5 +43,4 @@
 
 <p align="center"><sub>1000 − 7 · sworexo</sub></p>
 
-<p align="center"><sub>Layout inspiration & city banner: <a href="https://github.com/5dwn">5dwn</a></sub></p>
 
