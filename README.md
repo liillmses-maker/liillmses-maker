@@ -42,5 +42,3 @@ Online I go by sworexo, and here I'm [liillmses-maker](https://github.com/liillm
 <br clear="all">
 
 <p align="center"><sub>1000 − 7 · sworexo</sub></p>
-
-<p align="center"><sub>Layout inspiration & city banner: <a href="https://github.com/5dwn">5dwn</a></sub></p>
