@@ -1,7 +1,7 @@
-<img src="./welcome.svg" alt="Welcome to my profile — sworexo" width="100%">
+<img src="./welcome-blue.svg" alt="Welcome to my profile — sworexo" width="100%">
 
 <img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
-<img src="./about.svg" alt="About Me" width="76%">
+<img src="./about-blue.svg" alt="About Me" width="76%">
 
 - В интернете я — **sworexo**, на GitHub — **liillmses-maker**. Здесь собираю свои проекты, эксперименты и идеи.
 
@@ -16,7 +16,7 @@
 ---
 
 <img align="left" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
-<img src="./projects.svg" alt="Skills and Projects" width="76%">
+<img src="./projects-blue.svg" alt="Skills and Projects" width="76%">
 
 - **Python** — код в моём репозитории [Zcchja](https://github.com/liillmses-maker/Zcchja).
 
@@ -31,7 +31,7 @@
 ---
 
 <img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
-<img src="./social.svg" alt="Social" width="76%">
+<img src="./social-blue.svg" alt="Social" width="76%">
 
 - **[Мой сайт](https://liillmses-maker.github.io/gul-zxc/)** — гуль zxc настроящий кайф.
 
@@ -44,3 +44,4 @@
 <p align="center"><sub>1000 − 7 · sworexo</sub></p>
 
 <p align="center"><sub>Layout inspiration & city banner: <a href="https://github.com/5dwn">5dwn</a></sub></p>
+
