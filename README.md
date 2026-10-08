@@ -1,5 +1,4 @@
 <img src="./welcome-blue.svg" alt="Welcome to my profile — sworexo" width="100%">
-<img align="right" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" alt="Night city banner" width="23%">
  <img src="./about-blue.svg" alt="About Me" width="76%">
 I'm sworexo. I work on my own projects, write code, and try out new ideas. I enjoy figuring out how things work and building things I'd want to use myself.
 
